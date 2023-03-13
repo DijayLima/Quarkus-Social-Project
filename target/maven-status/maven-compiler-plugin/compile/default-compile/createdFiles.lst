@@ -1,0 +1,7 @@
+io\github\DijayLima\quarkussocial\rest\dto\FollowerRequest.class
+io\github\DijayLima\quarkussocial\domain\model\Follower.class
+io\github\DijayLima\quarkussocial\rest\FollowerResource.class
+io\github\DijayLima\quarkussocial\domain\repository\UserRepository.class
+io\github\DijayLima\GreetingResource.class
+io\github\DijayLima\quarkussocial\domain\model\User.class
+io\github\DijayLima\quarkussocial\domain\repository\FollowerRepository.class
